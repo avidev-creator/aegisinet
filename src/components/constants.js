@@ -33,7 +33,7 @@ const courseData = [
     id: 5,
     title: "Python And Django",
     description:
-      "New technologies such as cloud computing, ethical hacking, the Internet of Things (IoT), and automation all depend a lot on computer networks. Learn the core networking from the best",
+      "Python is one of the best and fastest language for fast API and Backend Development. Join our course to learn python and django from the very basics to the advance level.",
     path: "/courses/python",
   },
   {

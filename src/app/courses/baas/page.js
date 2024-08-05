@@ -45,6 +45,12 @@ const BaasPage = () => {
         </section>
         <div className="col-span-7 mt-[5rem] place-self-center text-center sm:text-left">
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
+            Every company depend on some sort of backend for their websites or
+            web apps. If you want build like a team of hundred, we provide you
+            the best course to learn the fastest and smallest backend known as
+            Appwrite.
+          </p>
+          <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
             Check what you will get and than decide if you want to join the
             course or not. Here in this course you will get the knowledge of
             BAAS from the very basics to the advance level that will make you

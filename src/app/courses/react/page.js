@@ -56,6 +56,11 @@ const ReactPage = () => {
         </section>
         <div className="col-span-7 mt-[5rem] place-self-center text-center sm:text-left">
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
+            Want to start building your own portfolio or want to enter the
+            industry as a frontend developer? Join us to learn React from our
+            experienced teachers and grab that oportunity.
+          </p>
+          <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
             Check what you will get and than decide if you want to join the
             course or not. Here in this course you will get the knowledge of
             react from the very basics to the advance level that will make you

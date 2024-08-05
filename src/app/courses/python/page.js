@@ -22,11 +22,7 @@ const Python = () => {
     },
     {
       title: "Week Three",
-      dataSet: [
-        "Basics of OOPS",
-        "Decorators",
-        "Handling APIs",
-      ],
+      dataSet: ["Basics of OOPS", "Decorators", "Handling APIs"],
     },
     {
       title: "Week Four",
@@ -48,12 +44,7 @@ const Python = () => {
     },
     {
       title: "Week Six",
-      dataSet: [
-        "Django Models",
-        "CRUD",
-        "Cross model queries",
-        "Admin Pannel",
-      ],
+      dataSet: ["Django Models", "CRUD", "Cross model queries", "Admin Pannel"],
     },
   ];
 
@@ -62,7 +53,7 @@ const Python = () => {
       <section id="courses" className="text-white">
         <h1 className="text-white text-center mb-4 text-4xl sm:text-5xl lg:text-6xl font-extrabold">
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
-          Python And Django
+            Python And Django
           </span>
         </h1>
         <section>
@@ -78,9 +69,9 @@ const Python = () => {
         </section>
         <div className="col-span-7 mt-[5rem] place-self-center text-center sm:text-left">
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Want to learn web development?. Start today by joining our
-            Javascript course which will prepare you to enter the biggest eco
-            system of web development.
+            Python is one of the best and fastest language for fast API and
+            Backend Development. Join our course to learn python and django from
+            the very basics to the advance level.
           </p>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
             Check what you will get and than decide if you want to join the
