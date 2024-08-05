@@ -61,8 +61,8 @@ const Flutter = () => {
         </section>
         <div className="col-span-7 mt-[5rem] place-self-center text-center sm:text-left">
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Discover the power of Flutter and Dart to create stunning and
-            high-performance mobile apps for iOS and Android with the most
+            Discover the power of Flutter and Dart to create stunning and high
+            performance mobile apps for iOS and Android with the most
             comprehensive and bestselling Flutter course.
           </p>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
