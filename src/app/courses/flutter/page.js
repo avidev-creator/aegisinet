@@ -63,7 +63,7 @@ const Flutter = () => {
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
             "Discover the power of Flutter and Dart to create stunning,
             high-performance mobile apps for iOS and Android with the most
-            comprehensive and bestselling Flutter course!"
+            comprehensive and bestselling Flutter course"
           </p>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
             Check what you will get and than decide if you want to join the
